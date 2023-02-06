@@ -1,6 +1,6 @@
 # job-offers
 
-奇人事業主iOSエンジニアのHackenbackerです。<br>
+個人事業主iOSエンジニアのHackenbackerです。<br>
 このリポジトリは営業活動をするにおいて自分の希望を伝えるためのものです。<br>
 以下のページをお読みいただいた上で、募集しているポジションと私がマッチすると感じたら、Twitter [@HK_Hackenbacker](https://twitter.com/HK_Hackenbacker)のDMまでご連絡ください。<br>
 その際はどんな仕事を任せる予定なのかについて記載をお願いしたいです。
