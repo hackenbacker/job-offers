@@ -72,6 +72,6 @@
 # 即戦力ではないが興味はある<br>勉強しながらでも良ければ
 
 - Flutter
-- TypeScript
-- Go言語
-- Rust
+- TypeScript (Frontend)
+- Go言語 (Backend)
+- Rust (Backend)
