@@ -18,3 +18,13 @@
 * [Lapras](https://lapras.com/public/M1HCDFA)
   * 全スコア上位13%突破。
   * 技術力上位4%突破を目標に努力中。
+
+# 語学力
+
+* TOEIC Bridge L&R = 85/100 (2022年3月時点)
+  * 英文の技術ドキュメントを原文のまま読むことに問題ありません。
+```mermaid
+pie
+    "progress" : 85
+    "" : 15
+```
