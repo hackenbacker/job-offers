@@ -21,6 +21,7 @@
 - の開発（Flutter）
     - Sign in with Google、ローカルプッシュ、退会機能、カートに入れた商品を注文できる機能などを開発
     - GetXなどを使って開発
+
 <br>
 
 # 株式会社クオッカ（2010〜2014年）
@@ -37,8 +38,6 @@
     - [Stacker for Mac](https://www.vector.co.jp/soft/mac/art/se505234.html) (最新OSはサポート外)
     - [Stacker for Win](https://www.vector.co.jp/soft/winnt/art/se505235.html)
 
-
-
 <br>
 
 # ソニー株式会社（1988〜2010年）
@@ -49,6 +48,7 @@
   - スケジュール管理
   - メンバーのタスク割り当て
   - 社内外の部門と関係構築、業務委託契約、調整
+  - 海外部門と日常的にコミュニケーション
 - 特許出願件数：9件
 
 <br>
