@@ -5,7 +5,7 @@
 |-------|-----------|
 | `OS`       | macOS、iOS    |
 | `Device`   | Macintosh、iPhone       |
-| `開発言語`   | Objective-C、HTML、C言語      |
+| `開発言語`   | Objective-C、C++、HTML    |
 | `開発環境`   | Xcode |
 | `フレームワーク` |  AppKit、UIKit  |
 | `アーキテクチャ` |  MVC   |
