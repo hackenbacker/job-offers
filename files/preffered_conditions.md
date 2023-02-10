@@ -87,7 +87,7 @@
 - ゲーム、Unity、AR/VR
 - 広告系
 - インフラ系
-- ReactNative、Xamarin、.NET MAUI、PhoneGap
+- ReactNative、Xamarin、.NET MAUI、PhoneGap、PWA
 
 # 即戦力ではないが勉強しながらでも良ければ
 
