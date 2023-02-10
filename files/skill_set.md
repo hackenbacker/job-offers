@@ -1,24 +1,25 @@
-スキルセットで別Document
-- Objective-C / C# / ImageMagic
-      - Objective-C、Box2d
-      - Objective-C
+# スキルセット
 
-折りたたみ
-- Visual Studio
+|   |     |
+|-------|-----------|
+| `OS`       | iOS、iPadOS      |
+| `Device`       | iPhone、iPad       |
+| `開発言語`   | Swift、Ruby、Objective-C      |
+| `開発環境`   | Xcode |
+| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency、Combine<br>Local Authentication (Touch ID、Face ID)<br>Widgit Kit、Intent、StoreKit  |
+| `アーキテクチャ` |  MVVM、MVC、3層アーキテクチャ   |
+| `ライブラリ`    |  Firebase<br>CocoaPods、Swift Package Manager |
+| `テストフレームワーク` | Appium、XCTest、XCUITest、GitHub Actions |
+| `データベース` | SQLite  |
+| `API` | JSON、REST  |
+| `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
+| `デザイン系` | Figma、Photoshop、GIMP、SF Symbols |
+| `開発プロセス` |  ウォーターフォール  |
+| `業務系`  |  JIRA、Confluence、TestRail、PlantUML<br>Notion、Mermaid、Zoom、Slack、Teams<br>Microsoft Office、App Center |
 
-▽開発環境等
-VxWorks、ITRON、Windows、Linux
-C 言語、Visual C++、C#、Java、ActionScript、Access、subversion、NetBeans
 
+<br>
 
-▽開発環境等
-Windows、Linux C++、Ruby、JavaScript、HTML、XML、UML
+# 過去編
+- [過去のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/old_skill.md)
 
-▽開発環境等
-PalmOS、Aperios
-C 言語、アセンブラ(MIPS)、 C++、Java
-
-
-▽開発環境等
-ITRON、オリジナル OS、Windows、macOS
-C 言語、アセンブラ(68000, NEC V800)、Visual C++、Visual Basic、Access、Photoshop
