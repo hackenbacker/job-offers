@@ -10,4 +10,4 @@
 - [略歴](https://github.com/hackenbacker/job-offers/blob/main/files/work_experience.md)
 - [スキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/skill_set.md)
 
-※人材紹介業の方からの連絡はお断りさせてください。
+※人材派遣業の方からの連絡はお断りさせてください。
