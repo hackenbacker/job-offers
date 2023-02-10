@@ -52,6 +52,7 @@
 <summary>デジカメプリント端末</summary>
 
 <div>
+
 - GUIフレームワーク
   - 特徴
     - FLASH/ActionScript(表示)とVisual C++(ロジック)が宣言型プログラミングで連帯
