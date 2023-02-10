@@ -1,10 +1,12 @@
-# 習得中のスキルセット
+# 習得予定のスキルセット
 
 |   |     |
 |-------|-----------|
 | `アーキテクチャ` |  クリーン、オニオン、ヘキサゴナル<br>TCA、VIPER<br>DDD(ドメイン駆動)   |
-| `開発言語`   | Dart、TypeScript、Go言語、Rust  |
-| `開発環境`   | Flutter、Node.js |
+| `開発言語`   | TypeScript、Go言語、Rust、Dart  |
+| `開発環境`   | Node.js、Flutter |
+| `開発者体験` | CI/CD、ビルド・テストシステムの構築<br>Figma (自動納入システムとして) |
+| `デザイン` | Figma (UIデザインツールとして) |
 | `データベース` | realm  |
 | `API` | GraphQL  |
 | `開発プロセス` |  アジャイル  |

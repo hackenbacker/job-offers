@@ -27,5 +27,5 @@
 <br>
 
 # 未来編
-- [習得中のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/future_skill.md)
+- [習得予定のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/future_skill.md)
 
