@@ -2,7 +2,7 @@
 
 |   |     |
 |-------|-----------|
-| **OS**       | iOS、iPadOS      |
+| `OS`       | iOS、iPadOS      |
 | `Device`       | iPhone、iPad       |
 | `開発言語`   | Swift、Ruby、Objective-C      |
 | `開発環境`   | Xcode |
