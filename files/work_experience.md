@@ -156,11 +156,11 @@
 </details>
 
 
-### デジカメ市場の立ち上げ・写真館業務の DX
+### デジカメ市場の立ち上げ
 
 
 <details>
-<summary>業務用デジカメの設計の開発</summary>
+<summary>写真館業務のDX・業務用デジカメ</summary>
 
 <div>
 
