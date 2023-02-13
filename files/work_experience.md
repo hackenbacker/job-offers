@@ -19,7 +19,7 @@
 
 # 株式会社クオッカ（2010〜2014年）
 
-- 代表取締役 (現在は清算済み)
+- 代表取締役
 - 自社アプリ開発（iOS）(現在非公開)
   - ゲーム系 (1本)
     - [プレスリリース](https://www.atpress.ne.jp/news/39378)
@@ -30,6 +30,8 @@
   - 画像処理ソフト (macOS/Windows)
     - [Stacker for Mac](https://www.vector.co.jp/soft/mac/art/se505234.html) (最新OSはサポート外)
     - [Stacker for Win](https://www.vector.co.jp/soft/winnt/art/se505235.html)
+
+※株式会社クオッカについては現在解散・清算済み
 
 <br>
 
