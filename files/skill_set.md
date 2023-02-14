@@ -9,7 +9,8 @@
 | `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency、Combine<br>Local Authentication (Touch ID、Face ID)<br>Widgit Kit、Intent、StoreKit  |
 | `アーキテクチャ` |  MVVM、MVC、3層アーキテクチャ   |
 | `ライブラリ`    |  Firebase<br>CocoaPods、Swift Package Manager |
-| `テストツール` | Appium、XCTest、XCUITest、GitHub Actions、TestRail |
+| `テストツール` | Appium、XCTest、XCUITest、TestRail |
+| `CI/CD` | GitHub Actions |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
 | `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
