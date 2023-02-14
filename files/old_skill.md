@@ -10,7 +10,7 @@
 | `フレームワーク` |  AppKit、UIKit  |
 | `アーキテクチャ` |  MVC   |
 | `グラフィック`    |  ImageMagic、Box2d |
-| `解析`    |  Flurry |
+| `分析`    |  Flurry、Data.ai |
 | `広告`    |  iAd、AdMob、adcrops、appC、GAMEFEAT、nend |
 
 ## Google系
