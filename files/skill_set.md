@@ -13,10 +13,12 @@
 | `CI/CD` | GitHub Actions |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
-| `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
 | `デザイン系` | Figma、Photoshop、GIMP、SF Symbols |
 | `開発プロセス` |  ウォーターフォール  |
-| `業務系`  |  JIRA、Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>App Center |
+| `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
+| `バグ管理` |  JIRA、GitHub issues |
+| `分析`    |  Firebase、Adobe Analytics |
+| `業務系`  |  Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>App Center |
 
 <br>
 
