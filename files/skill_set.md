@@ -17,6 +17,15 @@
 | `開発プロセス` |  ウォーターフォール  |
 | `業務系`  |  JIRA、Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>App Center |
 
+<br>
+
+# 非機能要件
+
+|   |
+|-------|
+| 画面デザイン納品物(Figma、静止画)を開発環境(Storyboard、SwiftUI)上に忠実に構築することが得意です。  |
+| デザイナーの感覚的・抽象的な要求を実装レベルに落とし込むことが得意です。  |
+| 携帯情報端末を`作る側`の人間だったので、ハードウェアレベルからアプリの動作を考察することができます。 |
 
 <br>
 
