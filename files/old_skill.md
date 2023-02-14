@@ -9,7 +9,9 @@
 | `開発環境`   | Xcode |
 | `フレームワーク` |  AppKit、UIKit  |
 | `アーキテクチャ` |  MVC   |
-| `ライブラリ`    |  ImageMagic、Box2d |
+| `グラフィック`    |  ImageMagic、Box2d |
+| `解析`    |  Flurry |
+| `広告`    |  iAd、AdMob、adcrops、appC、GAMEFEAT、nend |
 
 ## Google系
 |   |     |
