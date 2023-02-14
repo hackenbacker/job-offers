@@ -11,6 +11,15 @@
 | `アーキテクチャ` |  MVC   |
 | `ライブラリ`    |  ImageMagic、Box2d |
 
+## Google系
+|   |     |
+|-------|-----------|
+| `OS`       | Android    |
+| `Device`   | Google Pixel、Nexus |
+| `開発言語`   | Java |
+| `開発環境`   | AndroidStudio、Eclipse |
+| `アーキテクチャ` |  MVC   |
+
 ## Microsoft系
 |   |     |
 |-------|-----------|
