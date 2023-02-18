@@ -40,3 +40,10 @@
 | `OS`       | ITRON、VxWroks、組み込みLinux、AperiOS、自作OS、PalmOS      |
 | `CPU`      | 68000、NEC V800、MIPS、日立 SH-3       |
 | `開発言語`   | C言語、アセンブラ、C++、Java      |
+
+## データサイエンス系
+|   |     |
+|-------|-----------|
+| `自然言語処理`  | KeyGraph、tf-idf、形態素解析、サポートベクタマシン  |
+
+
