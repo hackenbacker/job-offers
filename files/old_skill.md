@@ -7,7 +7,7 @@
 | `Device`   | Macintosh、iPhone       |
 | `開発言語`   | Objective-C、C++、HTML    |
 | `開発環境`   | Xcode |
-| `フレームワーク` |  AppKit、UIKit<br>Today Extension  |
+| `フレームワーク` |  AppKit、UIKit<br>Today Extension、3D Touch  |
 | `アーキテクチャ` |  MVC   |
 | `グラフィック`    |  ImageMagic、Box2d |
 | `分析`    |  Flurry、Data.ai |
