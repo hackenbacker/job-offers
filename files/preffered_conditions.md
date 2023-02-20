@@ -85,9 +85,11 @@
 
 # 即戦力ではない(未経験)でも良ければ
 
+- WatchOS
 - Flutter
 - Node.js
 - GraphQL
 - TypeScript
 - Go言語
 - Rust
+
