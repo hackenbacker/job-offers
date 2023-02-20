@@ -13,7 +13,7 @@
 | `CI/CD` | GitHub Actions |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
-| `デザイン系` | Figma、Photoshop、GIMP、SF Symbols |
+| `デザイン系` | Figma(受領側)、Photoshop、GIMP、SF Symbols |
 | `開発プロセス` |  ウォーターフォール  |
 | `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
 | `バグ管理` |  JIRA、GitHub issues |
