@@ -6,7 +6,7 @@
 | `Device`       | iPhone、iPad       |
 | `開発言語`   | Swift、Ruby、Objective-C      |
 | `開発環境`   | Xcode |
-| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency、Combine<br>Local Authentication (Touch ID、Face ID)<br>Widgit Kit、Intent、StoreKit  |
+| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency、Combine<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、StoreKit  |
 | `アーキテクチャ` |  MVVM、MVC、3層アーキテクチャ   |
 | `ライブラリ`    |  Firebase<br>CocoaPods、Swift Package Manager |
 | `テストツール` | Appium、XCTest、XCUITest、TestRail |
