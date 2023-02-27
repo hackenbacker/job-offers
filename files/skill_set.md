@@ -32,12 +32,11 @@
 
 <br>
 
-# 過去編
-- [過去のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/old_skill.md)
-
+# 未来編
+- [習得予定のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/future_skill.md)
 
 <br>
 
-# 未来編
-- [習得予定のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/future_skill.md)
+# 過去編
+- [過去のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/old_skill.md)
 
