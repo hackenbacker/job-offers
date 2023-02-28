@@ -32,6 +32,19 @@
 
 <br>
 
+# 未経験でも良ければ
+
+- WatchOS
+- Flutter
+- Node.js
+- GraphQL
+- TypeScript
+- Go言語
+- Rust
+
+
+<br>
+
 # 未来編
 - [習得予定のスキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/future_skill.md)
 
