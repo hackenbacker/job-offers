@@ -101,14 +101,3 @@
 - オンプレミス、プロプライエタリ(クラウド禁止)よりも、クラウド、オープンソースを活用する環境
 - GitHub CopilotなどAI支援で作業することに前向きな環境 
 
-
-# 即戦力ではない(未経験)でも良ければ
-
-- WatchOS
-- Flutter
-- Node.js
-- GraphQL
-- TypeScript
-- Go言語
-- Rust
-
