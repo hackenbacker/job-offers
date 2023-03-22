@@ -8,6 +8,6 @@
 - [私について](https://github.com/hackenbacker/job-offers/blob/main/files/about_me.md)
 - [希望条件](https://github.com/hackenbacker/job-offers/blob/main/files/preffered_conditions.md)
 - [略歴](https://github.com/hackenbacker/job-offers/blob/main/files/work_experience.md)
-- [スキルセット](https://github.com/hackenbacker/job-offers/blob/main/files/skill_set.md)
+- [保有技術](https://github.com/hackenbacker/job-offers/blob/main/files/skill_set.md)
 
 ※人材派遣業の方からの連絡はお断りさせてください。
