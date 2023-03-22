@@ -4,7 +4,7 @@
 |-------|-----------|
 | `OS`       | iOS、iPadOS      |
 | `Device`       | iPhone、iPad       |
-| `開発言語`   | Swift、Ruby、Objective-C      |
+| `開発言語`   | Swift、Ruby、Objective-C、C++      |
 | `開発環境`   | Xcode |
 | `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency、Combine<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、StoreKit  |
 | `アーキテクチャ` |  MVVM、MVC、3層アーキテクチャ   |
@@ -22,11 +22,12 @@
 
 <br>
 
-## スキルシート
+## スキルシート (2012以降)
 
 | 技術  |  業務内容 |
 |-------|-------|
 | Objective-C<br>(24ヶ月)  | **Swift発表(2014/6)以降**<br>・大手クレジットカードアプリ<br>　・Objective-Cで記述されたライブラリの解析およびバグフィックス<br>**2014/3〜2014/6**<br>・大手クレジットカードアプリ<br>　・パフォーマンス改善<br>　・バグフィックス<br>　・iPad版アプリの新規開発<br>**2012/6〜2014/2**<br>・個人アプリ開発およびリリース|
+| C++<br>(25年)  | **Swiftオープンソース化(2015/12)以降**<br>・Swiftコンパイラのソースコード解析 |
 
 <br>
 
