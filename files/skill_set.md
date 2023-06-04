@@ -8,16 +8,17 @@
 | `開発環境`   | Xcode |
 | `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency、Combine<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、StoreKit  |
 | `アーキテクチャ` |  MVVM、MVC、3層アーキテクチャ   |
-| `ライブラリ`    |  Firebase<br>CocoaPods、Swift Package Manager |
+| `ライブラリ`    |  Firebase |
+| `Package Manager`    |  CocoaPods、Swift Package Manager |
 | `テストツール` | Appium、XCTest、XCUITest、TestRail |
-| `CI/CD` | GitHub Actions |
+| `CI/CD` | GitHub Actions、Bitrise |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
 | `デザイン系` | Figma(受領側)、Photoshop、GIMP、SF Symbols |
 | `開発プロセス` |  ウォーターフォール  |
 | `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
 | `バグ管理` |  JIRA、GitHub issues |
-| `分析`    |  Firebase、Adobe Analytics |
+| `分析`    |  Firebase、Adobe Analytics、AppsFlyer |
 | `業務系`  |  Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>App Center |
 
 <br>
