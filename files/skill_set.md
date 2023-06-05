@@ -6,12 +6,13 @@
 | `Device`       | iPhone、iPad       |
 | `開発言語`   | Swift、Ruby、Objective-C     |
 | `開発環境`   | Xcode |
-| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency、Combine<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、StoreKit  |
-| `アーキテクチャ` |  MVVM、MVC、3層アーキテクチャ   |
-| `ライブラリ`    |  Firebase |
-| `Package Manager`    |  CocoaPods、Swift Package Manager |
+| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、StoreKit  | `React` |  RxSwift、Combine |
+| `CI/CD` | GitHub Actions、Bitrise、fastlane |
+| `ライブラリ`    |  Firebase、LisencePlist |
+| `Package Manager`    |  CocoaPods、Bundler、Swift Package Manager |
 | `テストツール` | Appium、XCTest、XCUITest、TestRail |
-| `CI/CD` | GitHub Actions、Bitrise |
+| `CI/CD` | GitHub Actions、Bitrise、fastlane |
+| `静的解析` | SwiftLint |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
 | `デザイン系` | Figma(受領側)、Photoshop、GIMP、SF Symbols |
