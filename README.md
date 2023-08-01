@@ -2,7 +2,7 @@
 
 個人事業主iOSエンジニアのHackenbackerです。<br>
 このリポジトリは業務の受注において自分の希望を伝えるためのものです。<br>
-以下のページをお読みいただいた上で、募集しているポジションと私がマッチすると感じたら、Twitter [@HK_Hackenbacker](https://twitter.com/HK_Hackenbacker)のDMまでご連絡ください。<br>
+以下のページをお読みいただいた上で、募集しているポジションと私がマッチすると感じたら、X(Twitter) [@HK_Hackenbacker](https://twitter.com/HK_Hackenbacker)のDMまでご連絡ください。<br>
 その際はどんな仕事・工程を任せる予定なのか記載をお願いしたいです。
 (OS、言語、フレームワークが整理されていると助かります。)
 
