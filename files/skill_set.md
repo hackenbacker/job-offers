@@ -11,7 +11,7 @@
 | `ライブラリ`    |  Firebase、LisencePlist |
 | `Package Manager`    |  CocoaPods、Bundler、Swift Package Manager |
 | `テストツール` | Appium、XCTest、XCUITest、TestRail |
-| `CI/CD` | GitHub Actions、Bitrise、fastlane |
+| `β版配信` | TestFlight、App Center |
 | `静的解析` | SwiftLint |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
@@ -20,7 +20,7 @@
 | `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
 | `バグ管理` |  JIRA、GitHub issues |
 | `分析`    |  Firebase、Google Analytics、Adobe Analytics、AppsFlyer |
-| `業務系`  |  Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>App Center |
+| `業務系`  |  Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>Google Workspace |
 
 <br>
 
