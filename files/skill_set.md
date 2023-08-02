@@ -19,7 +19,7 @@
 | `開発プロセス` |  ウォーターフォール  |
 | `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
 | `バグ管理` |  JIRA、GitHub issues |
-| `分析`    |  Firebase、Adobe Analytics、AppsFlyer |
+| `分析`    |  Firebase、Google Analytics、Adobe Analytics、AppsFlyer |
 | `業務系`  |  Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>App Center |
 
 <br>
