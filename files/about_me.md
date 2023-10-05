@@ -18,6 +18,7 @@
 * [Lapras](https://lapras.com/public/M1HCDFA)
   * 技術力、ビジネス力 上位4%突破。
   * 全スコア上位13%突破。
+* [iOSDC参加履歴](https://fortee.jp/u/hackenbacker)
 
 # 語学力
 
