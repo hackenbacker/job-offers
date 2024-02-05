@@ -17,7 +17,7 @@
 | `API` | JSON、REST  |
 | `デザイン系` | Figma(受領側)、Photoshop、GIMP、SF Symbols |
 | `開発プロセス` |  ウォーターフォール  |
-| `Git系` | BitBucket、SourceTree、GitHub、コマンドライン  |
+| `Git系` | GitHub、SourceTree、BitBucket、コマンドライン  |
 | `バグ管理` |  JIRA、GitHub issues |
 | `分析`    |  Firebase、Google Analytics、Adobe Analytics、AppsFlyer |
 | `業務系`  |  Confluence、Notion<br>PlantUML、Mermaid<br>Zoom、Slack、Teams<br>Microsoft Office<br>Google Workspace |
