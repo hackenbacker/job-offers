@@ -1,8 +1,33 @@
 簡単に職歴を記載します。<br>
 詳細な職歴は別途用意しているので、選考時等にお渡しできます。
 
-# 個人事業主 (2023年3月〜)
+# 個人事業主 (2023年3月〜2024年3月(予定))
 - エンターテインメント系会社にて「カラオケアプリ」（iOS版）の開発・保守
+
+|   |     |
+|-------|-----------|
+| `OS`       | iOS、iPadOS      |
+| `Device`       | iPhone、iPad       |
+| `開発言語`   | Swift、Ruby     |
+| `開発環境`   | Xcode |
+| `フレームワーク` |  UIKit、StoreKit  |
+| `React` |  RxSwift |
+| `CI/CD` | Bitrise、fastlane |
+| `ライブラリ`    |  Firebase、LisencePlist<br>AWSS3、KeychainAccess、APIKit<br>Kingfisher、Lottie、GRDB |
+| `広告`    |  Google Ads |
+| `Package Manager`    |  CocoaPods、Bundler、Swift Package Manager |
+| `テストツール` | XCTest |
+| `β版配信` | TestFlight、Bitrise |
+| `静的解析` | SwiftLint |
+| `データベース` | SQLite<br>UserDefaults、KeyChain  |
+| `API` | JSON、REST  |
+| `デザイン系` | GIMP、SF Symbols、Cacoo |
+| `開発プロセス` |  ウォーターフォール  |
+| `Git系` | GitHub、SourceTree、コマンドライン  |
+| `バグ管理` |  GitHub issues |
+| `分析`    |  Firebase、Google Analytics、AppsFlyer |
+| `業務系`  |  Backlog、Notion<br>Mermaid<br>Slack、Teams<br>Google Workspace |
+
 
 <br>
 
