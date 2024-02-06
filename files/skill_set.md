@@ -6,7 +6,8 @@
 | `Device`       | iPhone、iPad       |
 | `開発言語`   | Swift、Ruby、Objective-C     |
 | `開発環境`   | Xcode |
-| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、StoreKit  | `React` |  RxSwift、Combine |
+| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、StoreKit  |
+| `React` |  RxSwift、Combine |
 | `CI/CD` | GitHub Actions、Bitrise、fastlane |
 | `ライブラリ`    |  Firebase、LisencePlist |
 | `Package Manager`    |  CocoaPods、Bundler、Swift Package Manager |
