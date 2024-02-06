@@ -8,6 +8,7 @@
 |-------|-----------|
 | `OS`       | iOS、iPadOS      |
 | `Device`       | iPhone、iPad       |
+| `アーキテクチャ`   | MVVM  |
 | `開発言語`   | Swift、Ruby     |
 | `開発環境`   | Xcode |
 | `フレームワーク` |  UIKit、StoreKit  |
@@ -47,6 +48,29 @@
     - 3D Touch, Haptic Touch
   - パフォーマンス改善
   - Swiftコードレビュアー
+
+|   |     |
+|-------|-----------|
+| `OS`       | iOS、iPadOS      |
+| `Device`       | iPhone、iPad       |
+| `アーキテクチャ`   | MVVM、独自アーキテクチャ  |
+| `開発言語`   | Swift、Ruby、Objective-C     |
+| `開発環境`   | Xcode |
+| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent |
+| `React` | Combine |
+| `ライブラリ`    |  Firebase、LisencePlist |
+| `Package Manager`    |  CocoaPods |
+| `テストツール` | Appium、XCTest、XCUITest、TestRail |
+| `β版配信` | App Center |
+| `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
+| `API` | JSON、REST  |
+| `デザイン系` | Figma(受領側)、GIMP、SF Symbols |
+| `開発プロセス` |  ウォーターフォール  |
+| `Git系` | SourceTree、BitBucket、コマンドライン  |
+| `バグ管理` |  JIRA |
+| `分析`    |  Firebase、Adobe Analytics、自社開発 |
+| `業務系`  |  Confluence<br>PlantUML<br>Zoom、Teams<br>Microsoft Office |
+
 
 <br>
 
