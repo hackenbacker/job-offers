@@ -11,10 +11,11 @@
 | `アーキテクチャ`   | MVVM  |
 | `開発言語`   | Swift、Ruby     |
 | `開発環境`   | Xcode |
-| `フレームワーク` |  UIKit、StoreKit  |
+| `フレームワーク` |  UIKit  |
 | `React` |  RxSwift |
 | `CI/CD` | Bitrise、fastlane |
 | `ライブラリ`    |  Firebase、LisencePlist<br>AWSS3、KeychainAccess、APIKit<br>Kingfisher、Lottie、GRDB |
+| `サブスク`    |  StoreKit |
 | `広告`    |  Google Ads |
 | `Package Manager`    |  CocoaPods、Bundler、Swift Package Manager |
 | `テストツール` | XCTest |
