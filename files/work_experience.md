@@ -65,7 +65,7 @@
 | `β版配信` | App Center |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
-| `デザイン系` | Figma(受領側)、GIMP、SF Symbols |
+| `デザイン系` | Figma、GIMP、SF Symbols |
 | `開発プロセス` |  ウォーターフォール  |
 | `Git系` | SourceTree、BitBucket、コマンドライン  |
 | `バグ管理` |  JIRA |
