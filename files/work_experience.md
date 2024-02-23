@@ -56,7 +56,7 @@
 | `アーキテクチャ`   | MVVM、MVC  |
 | `開発言語`   | Swift、Ruby、Objective-C     |
 | `開発環境`   | Xcode |
-| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent |
+| `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent、MapKit |
 | `React` | Combine |
 | `ライブラリ`    |  Firebase、LisencePlist |
 | `Package Manager`    |  CocoaPods |
