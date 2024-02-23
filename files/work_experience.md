@@ -15,7 +15,7 @@
 | `React` |  RxSwift |
 | `CI/CD` | Bitrise、fastlane |
 | `ライブラリ`    |  Firebase、LisencePlist<br>AWSS3、KeychainAccess、APIKit<br>Kingfisher、Lottie、GRDB、YMTGetDeviceName |
-| `サブスク`    |  StoreKit |
+| `課金`    |  StoreKit |
 | `広告`    |  Google Ads |
 | `Package Manager`    |  CocoaPods、Bundler、Swift Package Manager |
 | `テストツール` | XCTest |
