@@ -53,7 +53,7 @@
 |-------|-----------|
 | `OS`       | iOS、iPadOS      |
 | `Device`       | iPhone、iPad       |
-| `アーキテクチャ`   | MVVM、独自アーキテクチャ  |
+| `アーキテクチャ`   | MVVM、MVC  |
 | `開発言語`   | Swift、Ruby、Objective-C     |
 | `開発環境`   | Xcode |
 | `フレームワーク` |  UIKit、SwiftUI<br>Swift Concurrency<br>Local Authentication (Touch ID、Face ID)<br>WidgitKit、Intent |
