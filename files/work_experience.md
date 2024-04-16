@@ -26,7 +26,7 @@
 | `フレームワーク` |  UIKit  |
 | `React` |  RxSwift |
 | `CI/CD` | Bitrise、fastlane |
-| `ライブラリ`    |  Firebase、LisencePlist<br>AWSS3、KeychainAccess、APIKit<br>Kingfisher、Lottie、GRDB、YMTGetDeviceName |
+| `ライブラリ`    |  Firebase、LicencePlist<br>AWSS3、KeychainAccess、APIKit<br>Kingfisher、Lottie、GRDB、YMTGetDeviceName |
 | `課金`    |  StoreKit |
 | `広告`    |  Google Ads、AppLovin、Maio |
 | `Package Manager`    |  CocoaPods、Bundler、Swift Package Manager |
