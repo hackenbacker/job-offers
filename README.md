@@ -9,7 +9,7 @@
 
 - [FAQ](https://github.com/hackenbacker/job-offers/blob/main/files/faq.md)
 - [私について](https://github.com/hackenbacker/job-offers/blob/main/files/about_me.md)
-- [希望条件](https://github.com/hackenbacker/job-offers/blob/main/files/preffered_conditions.md) (2024/04〜受注可)
+- [希望条件](https://github.com/hackenbacker/job-offers/blob/main/files/preffered_conditions.md) (2024/07〜受注可)
 - [略歴](https://github.com/hackenbacker/job-offers/blob/main/files/work_experience.md)
 - [保有技術](https://github.com/hackenbacker/job-offers/blob/main/files/skill_set.md)
 
