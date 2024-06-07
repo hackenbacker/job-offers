@@ -18,7 +18,7 @@
 |   |     |
 |-------|-----------|
 | `開発言語`   | Java     |
-| `開発環境`   | Eclips、IntelliJ |
+| `開発環境`   | Eclipse、IntelliJ |
 | `フレームワーク` |  Aprint Framework  |
 | `テストツール` | JUnit |
 | `データベース` | MySQL  |
