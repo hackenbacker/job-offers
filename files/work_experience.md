@@ -19,7 +19,7 @@
 |-------|-----------|
 | `開発言語`   | Java     |
 | `開発環境`   | Eclipse、IntelliJ |
-| `フレームワーク` |  Sprint Framework  |
+| `フレームワーク` |  Spring Framework  |
 | `テストツール` | JUnit |
 | `データベース` | MySQL  |
 | `API` | JSON、REST  |
