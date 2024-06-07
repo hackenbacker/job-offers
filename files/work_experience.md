@@ -18,8 +18,9 @@
 |   |     |
 |-------|-----------|
 | `開発言語`   | Java     |
-| `開発環境`   | Eclipse、IntelliJ |
 | `フレームワーク` |  Spring Framework  |
+| `開発環境`   | Eclipse、IntelliJ |
+| `実行環境`   | AWS、Docker |
 | `テストツール` | JUnit |
 | `データベース` | MySQL  |
 | `API` | JSON、REST  |
