@@ -23,6 +23,7 @@
 | `実行環境`   | AWS、Docker |
 | `テストツール` | JUnit |
 | `データベース` | MySQL  |
+| `CI/CD` | GitLab CI/CD |
 | `API` | JSON、REST  |
 | `開発プロセス` |  スクラム  |
 | `Git系` | GitLab、SourceTree  |
