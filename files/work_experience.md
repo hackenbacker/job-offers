@@ -23,6 +23,7 @@
 | `実行環境`   | AWS、Docker |
 | `テストツール` | JUnit |
 | `カバレッジ計測` | JaCoCo |
+| `データ集計` | Excel |
 | `データベース` | MySQL  |
 | `CI/CD` | GitLab CI/CD |
 | `API` | JSON、REST  |
