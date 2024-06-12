@@ -16,8 +16,8 @@
 | `静的解析` | SwiftLint |
 | `データベース` | SQLite<br>UserDefaults、KeyChain、App Groups  |
 | `API` | JSON、REST  |
-| `デザイン系` | Figma(受領側)、Photoshop、GIMP、SF Symbols |
-| `開発プロセス` |  ウォーターフォール  |
+| `デザイン系` | Figma、Photoshop、GIMP、SF Symbols |
+| `開発プロセス` |  ウォーターフォール、スクラム  |
 | `Git系` | GitHub、SourceTree、BitBucket、コマンドライン  |
 | `バグ管理` |  JIRA、GitHub issues |
 | `分析`    |  Firebase、Google Analytics、Adobe Analytics、AppsFlyer |
